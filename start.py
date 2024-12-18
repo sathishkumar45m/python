@@ -5,3 +5,7 @@ def check(a):
         else:
             print("odd")
 check(30)
+
+
+print("hello world")
+print("bye world")
